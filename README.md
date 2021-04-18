@@ -9,8 +9,8 @@
 <p align="left">
 <a href="https://twitter.com/adam_kostuch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adam_kostuch" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adam-kostuch-2a2125210/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/adam-kostuch-2a2125210/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/adam.kostuch.12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/adam.kostuch.12" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kostusiek/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/kostusiek/" height="30" width="40" /></a>
+<a href="https://fb.com/adam.kostuch.12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/adam.kostuch.12" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kostusiek/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/kostusiek/" height="30" width="40" /></a>
 <a href="https://discord.gg/adaś#1429" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="adaś#1429" height="30" width="40" /></a>
 </p>
 
